@@ -1,1 +1,14 @@
 .dark_tool
+.idea
+android
+build
+ios
+lib
+linux
+macos
+test
+windows
+.flutter-plugins-dependencies
+package-lock
+pubspec.lock
+pubspec.yaml
